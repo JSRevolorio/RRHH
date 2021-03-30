@@ -1,0 +1,16 @@
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Domain\bin\Debug\Domain.dll
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Domain\bin\Debug\Domain.pdb
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Domain\bin\Debug\Domain.xml
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Domain\bin\Debug\AutoMapper.dll
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Domain\bin\Debug\DataAccess.dll
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Domain\bin\Debug\DataAccess.pdb
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Domain\bin\Debug\DataAccess.xml
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Domain\bin\Debug\AutoMapper.xml
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Domain\obj\Debug\Domain.vbprojAssemblyReference.cache
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Domain\obj\Debug\Domain.Resources.resources
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Domain\obj\Debug\Domain.vbproj.GenerateResource.cache
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Domain\obj\Debug\Domain.vbproj.CoreCompileInputs.cache
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Domain\obj\Debug\Domain.vbproj.CopyComplete
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Domain\obj\Debug\Domain.dll
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Domain\obj\Debug\Domain.xml
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Domain\obj\Debug\Domain.pdb

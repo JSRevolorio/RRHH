@@ -1,0 +1,17 @@
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Ejecucion de Prueba\bin\Debug\Ejecucion de Prueba.exe.config
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Ejecucion de Prueba\bin\Debug\Ejecucion de Prueba.exe
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Ejecucion de Prueba\bin\Debug\Ejecucion de Prueba.pdb
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Ejecucion de Prueba\bin\Debug\Ejecucion de Prueba.xml
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Ejecucion de Prueba\bin\Debug\DataAccess.dll
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Ejecucion de Prueba\bin\Debug\AutoMapper.dll
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Ejecucion de Prueba\bin\Debug\DataAccess.pdb
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Ejecucion de Prueba\bin\Debug\DataAccess.xml
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Ejecucion de Prueba\bin\Debug\AutoMapper.xml
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Ejecucion de Prueba\obj\Debug\Ejecucion de Prueba.vbprojAssemblyReference.cache
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Ejecucion de Prueba\obj\Debug\Ejecucion_de_Prueba.Resources.resources
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Ejecucion de Prueba\obj\Debug\Ejecucion de Prueba.vbproj.GenerateResource.cache
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Ejecucion de Prueba\obj\Debug\Ejecucion de Prueba.vbproj.CoreCompileInputs.cache
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Ejecucion de Prueba\obj\Debug\Ejecucion de Prueba.vbproj.CopyComplete
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Ejecucion de Prueba\obj\Debug\Ejecucion de Prueba.exe
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Ejecucion de Prueba\obj\Debug\Ejecucion de Prueba.xml
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\Ejecucion de Prueba\obj\Debug\Ejecucion de Prueba.pdb

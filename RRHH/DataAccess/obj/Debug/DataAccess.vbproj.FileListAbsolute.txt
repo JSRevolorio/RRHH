@@ -1,0 +1,13 @@
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\DataAccess\bin\Debug\DataAccess.xml
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\DataAccess\bin\Debug\AutoMapper.dll
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\DataAccess\bin\Debug\AutoMapper.xml
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\DataAccess\obj\Debug\DataAccess.vbprojAssemblyReference.cache
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\DataAccess\obj\Debug\DataAccess.Resources.resources
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.cache
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\DataAccess\obj\Debug\DataAccess.vbproj.CoreCompileInputs.cache
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\DataAccess\obj\Debug\DataAccess.vbproj.CopyComplete
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\DataAccess\obj\Debug\DataAccess.xml
+C:\Users\josue\Documents\GitHub Proyectos\1. Sistema de Recursos Humanos Web App\RRHH\DataAccess\obj\Debug\DataAccess.pdb
